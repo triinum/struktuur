@@ -1,0 +1,16 @@
+name: Task Plan (project management)
+description: |
+  Describe a task required for a feature (e.g., "Player Character SFX").
+  Note: A task should usually be a sub-issue for a featute!
+title: "[Task]: "
+type: Task
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Additional Information
+      description: >
+        Notes for the assignees.
+        For example, if the task is "Player Health Mechanics" this task could
+        include things like "Healing", "Taking Damage", etc.
