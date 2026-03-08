@@ -53,6 +53,12 @@ Run migrations:
 npx prisma migrate dev
 ```
 
+Format schema (after editing schema.prisma):
+
+```powershell
+npx prisma format
+```
+
 Optional seed:
 
 ```powershell
