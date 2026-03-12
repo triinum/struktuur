@@ -10,7 +10,7 @@
 ## 1. Clone project
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/taltech-vanemarendajaks/team6.git
 cd event-ticket-app
 ```
 
